@@ -1,0 +1,10 @@
+                                Começo
+                                    |
+Não faça<---- Não-----   é algo que realmente quer fazer?
+   ^                                |
+   ^                                |
+   ^                                |Sim>
+   ^                                |pode acabar mal? -- não-- entao pode fazer
+   ^                                |sim                                   ^
+   ^                                |                                      ^
+   <<<<<<<<<<<<<<<<<<<<<<<<<<<não---|mas da ria uma boa historia?-- Sim>>>>>
